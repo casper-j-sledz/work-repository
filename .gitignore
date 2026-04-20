@@ -1,3 +1,7 @@
+.*
+!.git.management.ps1
+!.gitignore
+\[*\]*.*
 *.main.md
 *.kdbx
 *.hours.xlsb
