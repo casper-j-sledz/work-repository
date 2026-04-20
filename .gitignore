@@ -1,3 +1,5 @@
 *.main.md
+\[*\]*.md
 *.kdbx
 *.hours.xlsb
+*.sql
