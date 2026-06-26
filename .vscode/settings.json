@@ -50,6 +50,7 @@
     "jawna",
     "jawnie",
     "Json",
+    "kdbx",
     "latexmk",
     "lightcol",
     "LIMS",
@@ -80,6 +81,7 @@
     "regedit",
     "repeata",
     "replayable",
+    "resharper",
     "Roboto",
     "RODO",
     "sbyte",
@@ -104,6 +106,7 @@
     "VARBINARY",
     "VARCHAR",
     "VLOOKUP",
+    "xlsb",
     "xslx"
   ],
   "latex-workshop.latex.outDir": "%DIR%/CVs"
