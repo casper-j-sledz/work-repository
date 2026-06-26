@@ -1,7 +1,5 @@
-> # work-repository
->> ```powershell
->> git submodule update --init --recursive
->> git submodule foreach git pull origin main
->> git submodule foreach git reset --hard "origin/main"
->> Set-Location notes
->> Set-Location power-shell
+> ## [work-repository](https://github.com/casper-j-sledz/work-repository)
+>> ### Sub Modules:
+>>> ### [notes](https://github.com/casper-j-sledz/notes)
+>>> ### [power-shell](https://github.com/casper-j-sledz/power-shell)
+>> ### [WorkRepository PowerShell Git management script](work-repository.ps1)
